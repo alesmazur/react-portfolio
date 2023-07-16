@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.f1cae5df.css",
+    "main.js": "/react-portfolio/static/js/main.715d2d32.js",
+    "static/media/active-box.jpg": "/react-portfolio/static/media/active-box.4aa8dde02926e848d26f.jpg",
+    "static/media/MoGo.jpg": "/react-portfolio/static/media/MoGo.c9532ef625b5155dfb68.jpg",
+    "static/media/react.png": "/react-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/github.png": "/react-portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/react-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/react-portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/react-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/react-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.f1cae5df.css.map": "/react-portfolio/static/css/main.f1cae5df.css.map",
+    "main.715d2d32.js.map": "/react-portfolio/static/js/main.715d2d32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1cae5df.css",
+    "static/js/main.715d2d32.js"
+  ]
+}
