@@ -11,7 +11,8 @@ To try hands on this project, clone it to your local mashine  and install all de
 
 ```
 $ git clone https://github.com/alesmazur/react-portfolio.git
-$ cd ./react-portofolio
+$ git checkout master
+$ cd ./react-portfolio
 $ npm install
 $ npm start
 ```
