@@ -2,7 +2,7 @@
 <h3>Wthis app  I've been created to show how to simply start using React.js & <span>Tailwind css </span>in your own projects</h3>
 
 <h2>Demo link avalible here:</h2>
-<p><a href="https://alesmazur.github.io/react-portfolio/" target="blank" >React portfolio</a></p>
+<span><a href="https://alesmazur.github.io/react-portfolio/" target="blank" >React portfolio</a></span>
 
 
 
